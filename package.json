@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "This is my npm project from freeCodeCamp.",
-	"keywords": [],
+	"keywords": ["freecodecamp", "project", "code"],
 	"author": "Alfas Salim",
 	"license": "ISC",
 	"bugs": {
